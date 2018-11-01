@@ -1,4 +1,4 @@
-package com.londonappbrewery.clima_completed;
+package com.ashish.climate;
 
 import android.app.Activity;
 import android.content.Intent;

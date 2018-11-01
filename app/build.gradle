@@ -5,7 +5,7 @@ android {
     buildToolsVersion '25.0.3'
 
     defaultConfig {
-        applicationId "com.londonappbrewery.clima_completed"
+        applicationId "com.ashish.climate"
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 1
